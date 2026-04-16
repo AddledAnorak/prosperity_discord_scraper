@@ -1,0 +1,6 @@
+.env
+state.json
+strategies.md
+copilot_tokens/
+__pycache__/
+*.pyc
